@@ -1,0 +1,7 @@
+*.jam
+build
+dist
+logs
+node_modules
+.DS_Store
+config/jammin.test.config.ts

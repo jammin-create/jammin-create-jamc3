@@ -1,0 +1,14 @@
+{
+  "name": "jammin-create-c3sdk",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@fluffylabs/jammin-sdk": "^0.1.0"
+  }
+}

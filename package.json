@@ -1,5 +1,5 @@
 {
-  "name": "jammin-create-c3sdk",
+  "name": "jammin-create-jamc3",
   "type": "module",
   "private": true,
   "devDependencies": {

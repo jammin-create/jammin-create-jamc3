@@ -1,4 +1,4 @@
 services:
   - path: services/example
     name: example
-    sdk: c3sdk-1.0.2
+    sdk: jamc3-1.1.1

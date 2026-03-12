@@ -6,7 +6,7 @@ Add the SDK as a C3 library dependency — your editor/LSP will provide full aut
 
 ```bash
 mkdir -p lib
-git clone https://github.com/DrEverr/jamsdk.c3l.git lib/jamsdk.c3l
+git clone https://github.com/DrEverr/jamc3.c3l.git lib/jamc3.c3l
 ```
 
 Then create your `project.json`:
@@ -14,7 +14,7 @@ Then create your `project.json`:
 ```json
 {
   "dependency-search-paths": ["lib"],
-  "dependencies": ["jamsdk"],
+  "dependencies": ["jamc3"],
   "sources": ["src/**"],
   "use-stdlib": false,
   "link-libc": false

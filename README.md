@@ -47,7 +47,7 @@ Runs unit tests for your services.
 
 - [jammin on github](https://github.com/FluffyLabs/jammin)
 - [jammin on npm](https://www.npmjs.com/package/@fluffylabs/jammin)
-- [C3 jamsdk](https://github.com/DrEverr/jamsdk)
+- [C3 jamc3](https://github.com/DrEverr/jamc3)
 
 ## Next Steps
 
